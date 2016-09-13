@@ -109,6 +109,8 @@ User case ends.
 2. Should be able to hold up to 1000 persons.
 3. Should come with automated unit tests and open source code.
 4. Should favor DOS style commands over Unix-style commands.
+5. Should reply to user's request within 5 seconds.
+6. Should memory the latest 10 commands to let user revert commands.
 
 ## Appendix D : Glossary
 
