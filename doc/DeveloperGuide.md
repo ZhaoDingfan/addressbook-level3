@@ -86,7 +86,7 @@ Use case ends.
 4. AddressBook requests user to confirm this change
 5. User confirms this edit
 6. AddressBook edit the tag
-User case ends.
+Use case ends.
 
 **Extensions**
 
@@ -96,12 +96,12 @@ User case ends.
 
 3a. The given tag cannot be found in the list
 
-> 3a1. AddressBook shoes an error message <br>
-  User case resumes at step 2
+> 3a1. AddressBook shows an error message <br>
+  Use case resumes at step 2
 
 5a. User cancels this edit
 
-> User case ends
+> Use case ends
 
 ## Appendix C : Non Functional Requirements
 
