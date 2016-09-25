@@ -36,7 +36,7 @@ public class StorageStub extends Storage {
      * @return nothing.
      */
     @Override
-    public abstract String getPath() {
+    public String getPath() {
         return null;
     }
     
