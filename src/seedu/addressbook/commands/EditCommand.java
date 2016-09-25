@@ -18,7 +18,10 @@ public class EditCommand {
     
     public static final String COMMAND_WORD = "edit";
     
-    public static final String 
+    public static final String MESSAGE_USAGE = COMMAND_WORD + ":\n" 
+            + "Edit the person identified by the index number used in the last person listing.\n\t"
+            + "Parameters: INDEX\n\t"
+            + "Example: " + COMMAND_WORD + " 1" + "Phone: 8888 8888";
     
     public static final String MESSAGE_EDIT_PERSON_SUCCESS = "Editted Person: %1$s";    
     
